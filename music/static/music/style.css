@@ -1,0 +1,17 @@
+body {
+    background: white url("images/background.jpg");
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.navbar-brand {
+    font-family: 'Satisfy', cursive;
+}
+
+.username_formatting{
+    padding-top: 40px;
+    color:yellow;
+    font-family: sans-serif;
+}
